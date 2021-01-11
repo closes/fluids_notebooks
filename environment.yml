@@ -1,0 +1,7 @@
+dependencies:
+  - python=3.8
+  - pyaudio==0.2.11
+  - matplotlib==3.2.1
+  - matplotlib-base==3.2.1
+  - numpy==1.18.4
+  - numpydoc==1.1.0
